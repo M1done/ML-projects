@@ -1,2 +1,1 @@
-# poetry
-poetry completion
+# ML Projects of learning phase
